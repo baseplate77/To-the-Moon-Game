@@ -23,7 +23,7 @@ function App() {
   }, []);
 
   return (
-    <div className="bg-black">
+  <div className="bg-black ">
       <div className="gradient-background px-4 sm:px-48 py-6 pb-32">
         <div className="flex justify-between items-center">
           <h1 className="mx-auto flex gap-3 sm:mx-0 ">
