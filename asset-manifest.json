@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/To-the-Moon-Game/static/css/main.847d7dd9.css",
+    "main.js": "/To-the-Moon-Game/static/js/main.e1abebe1.js",
+    "static/js/787.7d159b0a.chunk.js": "/To-the-Moon-Game/static/js/787.7d159b0a.chunk.js",
+    "static/media/Array-Regular.ttf": "/To-the-Moon-Game/static/media/Array-Regular.2bd89ccac6911c43904d.ttf",
+    "static/media/logo.png": "/To-the-Moon-Game/static/media/logo.c1a4128427acd95211e8.png",
+    "index.html": "/To-the-Moon-Game/index.html",
+    "main.847d7dd9.css.map": "/To-the-Moon-Game/static/css/main.847d7dd9.css.map",
+    "main.e1abebe1.js.map": "/To-the-Moon-Game/static/js/main.e1abebe1.js.map",
+    "787.7d159b0a.chunk.js.map": "/To-the-Moon-Game/static/js/787.7d159b0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.847d7dd9.css",
+    "static/js/main.e1abebe1.js"
+  ]
+}
